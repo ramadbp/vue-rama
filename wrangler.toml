@@ -1,0 +1,8 @@
+name = "vue-rama"
+compatibility_date = "2023-10-01"
+main = "src/worker.js" 
+
+[[d1_databases]]
+binding = "DB" # Nama binding yang akan digunakan di Workers
+database_name = "vue-rama"
+database_id = "27b8a79f-afff-4f95-a82e-93d0cb7d6e6c"
